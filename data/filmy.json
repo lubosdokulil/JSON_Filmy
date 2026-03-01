@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nazev": "Pelíšky",
+    "rokVydani": 1999,
+    "reziser": "Jan Hřebejk"
+  },
+  {
+    "id": 2,
+    "nazev": "Inception",
+    "rokVydani": 2010,
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "id": 3,
+    "nazev": "Pán prstenů: Společenstvo Prstenu",
+    "rokVydani": 2001,
+    "reziser": "Peter Jackson"
+  },
+  {
+    "id": 4,
+    "nazev": "Vykoupení z věznice Shawshank",
+    "rokVydani": 1994,
+    "reziser": "Frank Darabont"
+  },
+  {
+    "id": 5,
+    "nazev": "Kmotr",
+    "rokVydani": 1972,
+    "reziser": "Francis Ford Coppola"
+  },
+  {
+    "id": 6,
+    "nazev": "Temný rytíř",
+    "rokVydani": 2008,
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "id": 7,
+    "nazev": "Pulp Fiction: Historky z podsvětí",
+    "rokVydani": 1994,
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "id": 8,
+    "nazev": "Forrest Gump",
+    "rokVydani": 1994,
+    "reziser": "Robert Zemeckis"
+  },
+  {
+    "id": 9,
+    "nazev": "Klub rváčů",
+    "rokVydani": 1999,
+    "reziser": "David Fincher"
+  },
+  {
+    "id": 10,
+    "nazev": "Matrix",
+    "rokVydani": 1999,
+    "reziser": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "id": 11,
+    "nazev": "Samotáři",
+    "rokVydani": 2000,
+    "reziser": "David Ondříček"
+  },
+  {
+    "id": 12,
+    "nazev": "Kolja",
+    "rokVydani": 1996,
+    "reziser": "Jan Svěrák"
+  },
+  {
+    "id": 13,
+    "nazev": "Spalovač mrtvol",
+    "rokVydani": 1968,
+    "reziser": "Juraj Herz"
+  },
+  {
+    "id": 14,
+    "nazev": "Star Wars: Epizoda V - Impérium vrací úder",
+    "rokVydani": 1980,
+    "reziser": "Irvin Kershner"
+  },
+  {
+    "id": 15,
+    "nazev": "Pán prstenů: Návrat krále",
+    "rokVydani": 2003,
+    "reziser": "Peter Jackson"
+  },
+  {
+    "id": 16,
+    "nazev": "Návrat do budoucnosti",
+    "rokVydani": 1985,
+    "reziser": "Robert Zemeckis"
+  },
+  {
+    "id": 17,
+    "nazev": "Terminátor 2: Den zúčtování",
+    "rokVydani": 1991,
+    "reziser": "James Cameron"
+  },
+  {
+    "id": 18,
+    "nazev": "Vetřelec",
+    "rokVydani": 1979,
+    "reziser": "Ridley Scott"
+  },
+  {
+    "id": 19,
+    "nazev": "Schindlerův seznam",
+    "rokVydani": 1993,
+    "reziser": "Steven Spielberg"
+  },
+  {
+    "id": 20,
+    "nazev": "Jurský park",
+    "rokVydani": 1993,
+    "reziser": "Steven Spielberg"
+  },
+  {
+    "id": 21,
+    "nazev": "Pátý element",
+    "rokVydani": 1997,
+    "reziser": "Luc Besson"
+  },
+  {
+    "id": 22,
+    "nazev": "Ostře sledované vlaky",
+    "rokVydani": 1966,
+    "reziser": "Jiří Menzel"
+  },
+  {
+    "id": 23,
+    "nazev": "Dvanáct rozhněvaných mužů",
+    "rokVydani": 1957,
+    "reziser": "Sidney Lumet"
+  },
+  {
+    "id": 24,
+    "nazev": "Přelet nad kukaččím hnízdem",
+    "rokVydani": 1975,
+    "reziser": "Miloš Forman"
+  },
+  {
+    "id": 25,
+    "nazev": "Amadeus",
+    "rokVydani": 1984,
+    "reziser": "Miloš Forman"
+  },
+  {
+    "id": 26,
+    "nazev": "Vesničko má středisková",
+    "rokVydani": 1985,
+    "reziser": "Jiří Menzel"
+  },
+  {
+    "id": 27,
+    "nazev": "Interstellar",
+    "rokVydani": 2014,
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "id": 28,
+    "nazev": "Gladiátor",
+    "rokVydani": 2000,
+    "reziser": "Ridley Scott"
+  },
+  {
+    "id": 29,
+    "nazev": "Lví král",
+    "rokVydani": 1994,
+    "reziser": "Roger Allers, Rob Minkoff"
+  },
+  {
+    "id": 30,
+    "nazev": "Dědictví aneb Kurvahošigutntag",
+    "rokVydani": 1992,
+    "reziser": "Věra Chytilová"
+  }
+]

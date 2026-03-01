@@ -1,0 +1,45 @@
+﻿@page "/"
+@inject HttpClient Http
+
+<PageTitle>Moje filmy</PageTitle>
+
+<h1>Seznam oblíbených filmů</h1>
+
+@if (seznamFilmu == null)
+{
+    <p><em>Načítám data z JSON souboru...</em></p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Název filmu</th>
+                <th>Rok vydání</th>
+                <th>Režisér</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var film in seznamFilmu)
+            {
+                <tr>
+                    <td><strong>@film.nazev</strong></td>
+                    <td>@film.rokVydani</td>
+                    <td>@film.reziser</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    // Proměnná pro uložení načtených dat (pole filmů)
+    private Models.Film[]? seznamFilmu;
+
+    // Tato metoda se spustí automaticky při načtení stránky
+    protected override async Task OnInitializedAsync()
+    {
+        // Cesta ukazuje do složky wwwroot/data
+        seznamFilmu = await Http.GetFromJsonAsync<Models.Film[]>("data/filmy.json");
+    }
+}
